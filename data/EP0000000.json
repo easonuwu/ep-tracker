@@ -1,9 +1,9 @@
 {
-    "ClientName": "TESTING",
-    "Payment": "Touch N Go ewallet",
-    "Delivery": "Google Drive",
+    "ClientName": "Tester Dummy 1",
+    "Payment": "Bank Transfer",
+    "Delivery": "Dropbox",
     "DeliveryDate": "5/12/2023",
-    "ReadyIn": "Day of Order",
+    "ReadyIn": "TBD",
     "Info": "",
     "1": "D|4/12/2023 8:00PM|Order Received",
     "2": "D|4/12/2023 8:00PM|Payment Received",
@@ -19,6 +19,7 @@
     "thumbnails": "Simple",
     "sound": "1",
     "bgm": "2",
-    "other": "",
-    "review": "None"
+    "other": "Remark\nMultiline\nTest",
+    "price": "44.50",
+    "review": "3"
 }
