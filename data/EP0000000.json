@@ -1,6 +1,9 @@
 {
     "ClientName": "TESTING",
     "Payment": "Touch N Go ewallet",
+    "Delivery": "Google Drive",
+    "DeliveryDate": "5/12/2023",
+    "ReadyIn": "Day of Order",
     "Info": "",
     "1": "D|4/12/2023 8:00PM|Order Received",
     "2": "D|4/12/2023 8:00PM|Payment Received",
@@ -16,5 +19,6 @@
     "thumbnails": "Simple",
     "sound": "1",
     "bgm": "2",
-    "other": "This is just a dummy test!"
+    "other": "",
+    "review": "None"
 }
